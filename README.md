@@ -4,6 +4,17 @@ EventPanda is a real-time event tracking and notification service built for SaaS
 
 <img src="./public/thumbnail.png"/>
 
+## ✨ Built With
+- ⚙️ NextJs / React
+- 🟦 TypeScript
+- 📬 Discord Webhooks
+
+- 🖼️ Tailwind CSS 
+
+- 🌐 Clerk
+- ![Neon](https://img.shields.io/badge/Database-Neon-blueviolet?logo=postgresql)
+
+
 ## 🔧 Features
 
 - ✅ **Real-time notifications**  
